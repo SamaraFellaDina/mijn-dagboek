@@ -1,10 +1,8 @@
 ---
 title: week 1
-date: 2025-04-01
+date: 2025-04-19
 tags:
-  - oefenen
-
-
+  - weekplanning
 draft: false
 ---
 # hoe zag je planning voor deze week eruit?

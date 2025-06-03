@@ -10,7 +10,7 @@ tags:
 ---
 * [hier](https://codepen.io/shooft/pen/KKYbBMa) een aantal voorbeelden van Sanne hoe hij GSAP gebruikt
 	* Hij maakt gebruik van `drawingsvg`  waarbij er een animatie word getekend
-![[Pasted image 20250513101255.png]]
+![[img-20250513101255.png]]
 * [hier](https://gsap.com/docs/v3/Eases/) kan je gemakkelijk een library vinden over easing. 
 
 # Oefenen

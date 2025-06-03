@@ -89,7 +89,7 @@ let sizeW = headerImage.offsetWidth;
 let sizeH = headerImage.offsetHeight;
 ```
 I checked this with `console.log(sizeH)`. Which when you check this in the console of the browser, it will return a value.
-![[Pasted image 20250520101126.png]]
+![[img-20250520101126.png]]
 
 2. after that, you can create the `gsap` animation
 	1. here you create a `gsap` animation and call the event.

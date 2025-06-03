@@ -1,10 +1,8 @@
 ---
 title: week 2
-date: 2025-04-01
+date: 2025-04-26
 tags:
-  - oefenen
-
-
+  - weekplanning
 draft: false
 ---
 # voor na de vakantie
@@ -21,7 +19,7 @@ draft: false
 - [x] commenten waar sander aan geassigned moet worden
 
 # hoe zag je planning voor deze week eruit?
-![Screenshot 2025-05-03 at 10.23.53.png](../assets/Screenshot 2025-05-03 at 10.23.53.png)
+![[2025-05-0310.23.56.png]]
 
-![Screenshot 2025-05-03 at 10.23.56.png](../assets/Screenshot 2025-05-03 at 10.23.56.png)
+![[2025-05-0310.23.53.png]]
 > ik heb even twee screenshots, omdat ik één keer erg laat door ging 😵‍💫

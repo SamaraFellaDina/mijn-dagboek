@@ -1,10 +1,8 @@
 ---
 title: week 4
-date: 2025-04-01
+date: 2025-05-09
 tags:
-  - oefenen
-
-
+  - weekplanning
 draft: false
 ---
-![Pasted image 20250518141406.png](../assets/Pasted image 20250518141406.png)
+![img-20250518141406.png](../assets/img-20250518141406.png)
