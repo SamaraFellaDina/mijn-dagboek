@@ -6,9 +6,6 @@ tags:
   - ademen
   - leve
   - haha-gifje
-week: "1"
-description: Lorem ipsum dolor sit amet
-heroImage: /blog-placeholder-1.jpg
 draft: false
 ---
 hi! Hier kan je al mijn documentatie vinden van het afgelopen blok
@@ -22,4 +19,4 @@ ik zal je helpen! Ik heb deze blog opgedeeld in de volgende onderdelen:
 # Hoe heb je deze blog gemaakt? 
 Ik heb dit blok veel met het programma Obsidian gewerkt. Ik had gelezen dat je deze tool kan gebruiken om een blog te bouwen. Ik had eerst zelf geprobeerd met Astro te maken, maar dat werd veel huilen... Toen kwam ik erachter dat ik de tool Quartz kan gebruiken. *shoutout naar hun <3*
 
-![[haha.gif]]
+![[deze.webp]]
