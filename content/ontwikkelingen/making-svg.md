@@ -7,7 +7,7 @@ tags:
   - svg
   - animatie
 ---
-hii! I wanted to know how to make an gsap svg animation for a footer I want to create for my portfolio.
+hii! I wanted to know how to make an `gsap` svg animation for a footer I want to create for my portfolio.
 
 ![[Pasted image 20250520210513.png]]
 i made this svg and want to make an animation where he follows the mouse
